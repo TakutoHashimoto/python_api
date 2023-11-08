@@ -22,4 +22,10 @@
 * クライアント（API使用者）が行いたい処理をサーバ（API側）伝えるという役割
 ## 4. [JSONPlaceholder](https://jsonplaceholder.typicode.com/) によるAPI活用練習
 * ユーザ登録不要で、テスト用のAPIを提供しているサイト
-* 講座ではJupyerを使っているが、ここではPythonファイルを作ってみる。
+* 講座ではJupyerを使っているが、ここではPythonファイルを作ってみる（`script.py`）
+
+### 準備
+* ターミナル上でライブラリをインストールする。
+    ```
+    pip intall requests
+    ```
