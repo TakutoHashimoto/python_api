@@ -13,6 +13,10 @@
    5. 知っておくべきAPIエコノミーとは
    6. 企業がAPIを提供する理由
 3. PythonによるWeb APIの叩き方
+   1. APIを叩く上で必要な情報
+   2. JSONを理解しよう
+   3. HTTPメソッドについて
+   4. JSONPlaceholderによるAPI活用練習
 4. グルメサーチAPIによるホットペッパー掲載データの収集
 5. 楽天商品検索APIによる商品データの収集
 6. Sheets APIによるGoogleスプレッドシート操作
