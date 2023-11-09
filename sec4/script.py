@@ -29,4 +29,4 @@ print(df.columns)
 df = df[["name", "address", "wifi"]]
 print(df.head())
 
-df.to_csv("hotpepper", index=False)
+df.to_csv("hotpepper.csv", index=False)
